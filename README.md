@@ -1,9 +1,9 @@
 ## another website developed at the us embassy
 
-** Authors **
+**Authors**
 - Calvin Nyabuti, [Alex Muchiri](https://github.com/alex-muchiri)
 
-** Technologies **
+**Technologies**
 - HTML
 - GIT
 
