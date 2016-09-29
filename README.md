@@ -7,5 +7,5 @@
 - HTML
 - GIT
 
-** License Information **
+**License Information**
 - To be Determined 
